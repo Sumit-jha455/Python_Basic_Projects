@@ -44,48 +44,8 @@ A student is eligible when all of the following conditions are satisfied:
 
 1. Make sure Python 3 is installed.
 2. Clone this repository:
-
 ```bash
 git clone https://github.com/Sumit-jha455/Python_Basic_Projects.git
-
-
-Navigate to the project directory:
-cd Python_Basic_Projects
-Run the program:
-python scholarship_eligibility.py
-
-
-💻 Sample Output
-Eligible Student
-Enter student name: Rahul
-Enter age: 20
-Enter family income: 200000
-Enter percentage: 85
-Enter attendance: 90
-
-================================
-SCHOLARSHIP ELIGIBILITY REPORT
-================================
-Student: Rahul
-Status: ELIGIBLE
-Reason: All criteria satisfied.
-Not Eligible Student
-Enter student name: Aman
-Enter age: 27
-Enter family income: 400000
-Enter percentage: 68
-Enter attendance: 70
-
-================================
-SCHOLARSHIP ELIGIBILITY REPORT
-================================
-Student: Aman
-Status: NOT ELIGIBLE
-Reasons:
-- Age is above 25.
-- Percentage below 75%.
-- Attendance below 75%.
-- Family income above ₹3,00,000.
 
 
 📚 Concepts Practiced
