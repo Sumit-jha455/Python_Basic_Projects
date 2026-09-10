@@ -48,10 +48,13 @@ A student is eligible when all of the following conditions are satisfied:
 ```bash
 git clone https://github.com/Sumit-jha455/Python_Basic_Projects.git
 
+
 Navigate to the project directory:
 cd Python_Basic_Projects
 Run the program:
 python scholarship_eligibility.py
+
+
 💻 Sample Output
 Eligible Student
 Enter student name: Rahul
@@ -83,6 +86,8 @@ Reasons:
 - Percentage below 75%.
 - Attendance below 75%.
 - Family income above ₹3,00,000.
+
+
 📚 Concepts Practiced
 
 This project was created to practice:
@@ -96,6 +101,8 @@ Lists
 if-else
 Multiple Conditions
 Basic Problem Solving
+
+
 🚀 Future Improvements
 
 Possible improvements for this project:
@@ -106,6 +113,7 @@ Add multiple scholarship categories
 Add more eligibility criteria
 Use functions for better code organization
 Add database support
+
 
 👨‍💻 Author
 
